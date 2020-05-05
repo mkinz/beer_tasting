@@ -1,4 +1,10 @@
 App should do this:
-1. x
-2. y
-3. z
+1. take as input:
+    -beer names
+    -beer styles
+    -brewery
+2. create database, write inputs to database
+3. create users
+4. allow users to rank beers
+5. for each beer, tally the scores given by each person
+6. return the top-three scoring beers
